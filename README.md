@@ -90,3 +90,8 @@ Explore the live dashboard here: **[Link to Online Reports Page](https://app.pow
 2. Navigate between pages using bookmarks and buttons.  
 3. Drillthrough on products or returns charts for detailed insights.  
 4. Toggle between light and dark modes for your viewing preference.
+
+---
+
+### **Copyright:**  
+Project dataset created by ZeroAnalyst; it is a simulated company for learning purposes.
