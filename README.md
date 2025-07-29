@@ -85,8 +85,4 @@ Explore the live dashboard here: **[Link to Online Reports Page](https://app.pow
 
 ---
 
-## **How to Use the Dashboard**  
-1. Use slicers to filter data by region, product category, or time period.  
-2. Navigate between pages using bookmarks and buttons.  
-3. Drillthrough on products or returns charts for detailed insights.  
-4. Toggle between light and dark modes for your viewing preference.
+
